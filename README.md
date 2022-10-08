@@ -1,5 +1,6 @@
 # Green-Hill-Zone
 <html>
+  <body>
 Repository containing few of the common dsa algorithms Contribute for hacktoberfest 2022 
 1.Fork the repo 
 2.Create your new file 
@@ -10,6 +11,7 @@ Let's add meaning to the Green Hill Zone
 
 Happy Hacking :)
 <a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+ <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
 </a>
+  </body>
 </html>
